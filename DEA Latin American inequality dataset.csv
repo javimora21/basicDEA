@@ -1,0 +1,253 @@
+﻿Country Name,Time,DMU,GDP growth,Unemployment,Deflator (% annual),Gini index
+Argentina,2010,Argentina 2010,10.13,7.71,20.92,43.6
+Argentina,2011,Argentina 2011,6.00,7.18,23.70,42.6
+Argentina,2012,Argentina 2012,-1.03,7.22,22.31,41.3
+Argentina,2013,Argentina 2013,2.41,7.10,23.95,40.9
+Argentina,2014,Argentina 2014,-2.51,7.27,40.28,41.6
+Argentina,2015,Argentina 2015,2.73,..,26.58,..
+Argentina,2016,Argentina 2016,-2.08,..,41.12,42
+Argentina,2017,Argentina 2017,2.82,8.35,26.01,41.1
+Argentina,2018,Argentina 2018,-2.62,9.22,42.03,41.3
+Argentina,2019,Argentina 2019,-2.00,9.84,49.20,42.9
+Argentina,2020,Argentina 2020,-9.94,11.46,40.08,42.3
+Argentina,2021,Argentina 2021,10.40,8.74,54.15,..
+Bolivia,2010,Bolivia 2010,4.13,..,8.78,..
+Bolivia,2011,Bolivia 2011,5.20,2.25,14.60,46.1
+Bolivia,2012,Bolivia 2012,5.12,2.07,7.10,46.6
+Bolivia,2013,Bolivia 2013,6.80,2.44,6.00,47.6
+Bolivia,2014,Bolivia 2014,5.46,2.02,2.05,47.8
+Bolivia,2015,Bolivia 2015,4.86,3.11,-4.62,46.7
+Bolivia,2016,Bolivia 2016,4.26,3.50,-1.35,45.3
+Bolivia,2017,Bolivia 2017,4.20,3.65,6.06,44.6
+Bolivia,2018,Bolivia 2018,4.22,3.52,3.06,42.6
+Bolivia,2019,Bolivia 2019,2.22,3.68,-0.69,41.6
+Bolivia,2020,Bolivia 2020,-8.74,7.90,-1.85,43.6
+Bolivia,2021,Bolivia 2021,6.11,5.09,3.97,..
+Brazil,2010,Brazil 2010,7.53,..,8.42,..
+Brazil,2011,Brazil 2011,3.97,7.58,8.32,52.9
+Brazil,2012,Brazil 2012,1.92,7.25,7.94,53.4
+Brazil,2013,Brazil 2013,3.00,7.07,7.50,52.7
+Brazil,2014,Brazil 2014,0.50,6.76,7.85,52
+Brazil,2015,Brazil 2015,-3.55,8.54,7.57,51.9
+Brazil,2016,Brazil 2016,-3.28,11.58,8.10,53.3
+Brazil,2017,Brazil 2017,1.32,12.79,3.67,53.3
+Brazil,2018,Brazil 2018,1.78,12.33,4.49,53.9
+Brazil,2019,Brazil 2019,1.22,11.94,4.22,53.5
+Brazil,2020,Brazil 2020,-3.88,13.70,5.14,48.9
+Brazil,2021,Brazil 2021,4.62,13.16,11.10,..
+Chile,2010,Chile 2010,5.85,8.41,8.86,..
+Chile,2011,Chile 2011,6.22,7.32,3.26,46
+Chile,2012,Chile 2012,6.16,6.64,0.76,..
+Chile,2013,Chile 2013,3.31,6.20,2.26,45.8
+Chile,2014,Chile 2014,1.79,6.65,5.85,..
+Chile,2015,Chile 2015,2.15,6.49,4.95,44.4
+Chile,2016,Chile 2016,1.75,6.73,4.56,..
+Chile,2017,Chile 2017,1.36,6.95,4.83,44.4
+Chile,2018,Chile 2018,3.99,7.21,1.59,..
+Chile,2019,Chile 2019,0.77,7.27,2.58,..
+Chile,2020,Chile 2020,-5.98,10.94,8.82,44.9
+Chile,2021,Chile 2021,11.67,9.28,7.56,..
+Colombia,2010,Colombia 2010,4.49,10.98,3.80,54.6
+Colombia,2011,Colombia 2011,6.95,10.11,6.39,53.5
+Colombia,2012,Colombia 2012,3.91,9.74,3.62,52.6
+Colombia,2013,Colombia 2013,5.13,9.05,1.91,52.6
+Colombia,2014,Colombia 2014,4.50,8.57,2.24,52.6
+Colombia,2015,Colombia 2015,2.96,8.30,2.45,51
+Colombia,2016,Colombia 2016,2.09,8.69,5.15,50.6
+Colombia,2017,Colombia 2017,1.36,8.87,5.13,49.7
+Colombia,2018,Colombia 2018,2.56,9.11,4.63,50.4
+Colombia,2019,Colombia 2019,3.19,9.96,4.00,51.3
+Colombia,2020,Colombia 2020,-7.05,15.04,1.36,54.2
+Colombia,2021,Colombia 2021,10.68,13.90,6.50,..
+Costa Rica,2010,Costa Rica 2010,5.36,7.17,6.63,48
+Costa Rica,2011,Costa Rica 2011,4.40,9.52,4.59,48.8
+Costa Rica,2012,Costa Rica 2012,4.88,9.11,4.73,48.4
+Costa Rica,2013,Costa Rica 2013,2.49,8.22,4.59,49.2
+Costa Rica,2014,Costa Rica 2014,3.54,8.50,6.21,48.6
+Costa Rica,2015,Costa Rica 2015,3.65,8.42,3.96,48.4
+Costa Rica,2016,Costa Rica 2016,4.20,8.09,1.96,48.7
+Costa Rica,2017,Costa Rica 2017,4.16,7.73,2.86,48.3
+Costa Rica,2018,Costa Rica 2018,2.62,9.01,2.19,48
+Costa Rica,2019,Costa Rica 2019,2.42,10.81,2.57,48.2
+Costa Rica,2020,Costa Rica 2020,-4.05,16.43,0.16,49.3
+Costa Rica,2021,Costa Rica 2021,7.58,15.14,2.03,..
+Cuba,2010,Cuba 2010,2.39,2.50,1.20,..
+Cuba,2011,Cuba 2011,2.80,3.18,4.32,..
+Cuba,2012,Cuba 2012,3.01,3.46,2.91,..
+Cuba,2013,Cuba 2013,2.75,3.29,2.66,..
+Cuba,2014,Cuba 2014,1.05,2.70,3.46,..
+Cuba,2015,Cuba 2015,4.44,2.40,3.44,..
+Cuba,2016,Cuba 2016,0.51,2.00,4.33,..
+Cuba,2017,Cuba 2017,1.81,1.70,4.12,..
+Cuba,2018,Cuba 2018,2.25,1.70,1.03,..
+Cuba,2019,Cuba 2019,-0.16,..,3.55,..
+Cuba,2020,Cuba 2020,-10.95,..,16.55,..
+Cuba,2021,Cuba 2021,1.25,..,401.59,..
+Dominican Republic,2010,Dominican Republic 2010,8.34,5.21,5.44,47.3
+Dominican Republic,2011,Dominican Republic 2011,3.13,6.09,8.06,47.7
+Dominican Republic,2012,Dominican Republic 2012,2.72,6.72,5.10,46.1
+Dominican Republic,2013,Dominican Republic 2013,4.88,7.35,4.69,47.7
+Dominican Republic,2014,Dominican Republic 2014,7.05,6.72,4.32,44.3
+Dominican Republic,2015,Dominican Republic 2015,6.93,7.61,2.47,45.2
+Dominican Republic,2016,Dominican Republic 2016,6.66,7.28,1.99,45.7
+Dominican Republic,2017,Dominican Republic 2017,4.67,5.83,4.18,42.2
+Dominican Republic,2018,Dominican Republic 2018,6.98,5.86,4.12,43.7
+Dominican Republic,2019,Dominican Republic 2019,5.05,6.18,2.53,41.9
+Dominican Republic,2020,Dominican Republic 2020,-6.72,6.13,4.72,39.6
+Dominican Republic,2021,Dominican Republic 2021,12.27,7.70,7.78,..
+Ecuador,2010,Ecuador 2010,3.53,4.09,7.47,48.8
+Ecuador,2011,Ecuador 2011,7.87,3.46,5.66,45.9
+Ecuador,2012,Ecuador 2012,5.64,3.23,4.99,46.1
+Ecuador,2013,Ecuador 2013,4.95,3.08,3.10,46.9
+Ecuador,2014,Ecuador 2014,3.79,3.48,3.03,45
+Ecuador,2015,Ecuador 2015,0.10,3.62,-2.49,46
+Ecuador,2016,Ecuador 2016,-1.23,4.60,1.90,45
+Ecuador,2017,Ecuador 2017,2.37,3.84,1.95,44.7
+Ecuador,2018,Ecuador 2018,1.29,3.53,1.82,45.4
+Ecuador,2019,Ecuador 2019,0.01,3.81,0.50,45.7
+Ecuador,2020,Ecuador 2020,-7.79,6.11,-0.40,47.3
+Ecuador,2021,Ecuador 2021,4.24,4.50,2.58,..
+El Salvador,2010,El Salvador 2010,2.11,4.89,2.64,43.5
+El Salvador,2011,El Salvador 2011,3.81,4.30,5.92,42.3
+El Salvador,2012,El Salvador 2012,2.82,3.84,2.54,41.8
+El Salvador,2013,El Salvador 2013,2.24,3.69,0.58,43.4
+El Salvador,2014,El Salvador 2014,1.71,4.15,1.01,41.6
+El Salvador,2015,El Salvador 2015,2.40,4.00,1.31,40.6
+El Salvador,2016,El Salvador 2016,2.54,4.42,0.66,40
+El Salvador,2017,El Salvador 2017,2.25,4.39,0.99,38
+El Salvador,2018,El Salvador 2018,2.41,4.01,1.72,38.6
+El Salvador,2019,El Salvador 2019,2.44,4.17,0.85,38.8
+El Salvador,2020,El Salvador 2020,-8.18,5.01,-0.49,..
+El Salvador,2021,El Salvador 2021,10.28,4.33,6.09,..
+Guatemala,2010,Guatemala 2010,2.88,3.50,5.14,..
+Guatemala,2011,Guatemala 2011,4.16,4.13,6.89,..
+Guatemala,2012,Guatemala 2012,2.97,2.76,3.38,..
+Guatemala,2013,Guatemala 2013,3.69,3.02,3.36,..
+Guatemala,2014,Guatemala 2014,4.44,2.72,2.86,48.3
+Guatemala,2015,Guatemala 2015,4.09,2.51,2.23,..
+Guatemala,2016,Guatemala 2016,2.68,2.58,2.71,..
+Guatemala,2017,Guatemala 2017,3.08,2.46,1.75,..
+Guatemala,2018,Guatemala 2018,3.41,2.28,1.27,..
+Guatemala,2019,Guatemala 2019,4.00,2.19,3.58,..
+Guatemala,2020,Guatemala 2020,-1.76,..,2.73,..
+Guatemala,2021,Guatemala 2021,7.98,..,2.75,..
+Haiti,2010,Haiti 2010,-5.65,..,7.39,..
+Haiti,2011,Haiti 2011,5.10,..,4.32,..
+Haiti,2012,Haiti 2012,0.50,14.10,8.21,41.1
+Haiti,2013,Haiti 2013,4.32,..,8.08,..
+Haiti,2014,Haiti 2014,1.72,..,3.34,..
+Haiti,2015,Haiti 2015,2.56,..,3.95,..
+Haiti,2016,Haiti 2016,1.81,..,15.16,..
+Haiti,2017,Haiti 2017,2.51,..,14.01,..
+Haiti,2018,Haiti 2018,1.67,..,7.28,..
+Haiti,2019,Haiti 2019,-1.68,..,17.55,..
+Haiti,2020,Haiti 2020,-3.34,..,20.58,..
+Haiti,2021,Haiti 2021,-1.80,..,19.34,..
+Honduras,2010,Honduras 2010,3.73,4.12,4.68,53.1
+Honduras,2011,Honduras 2011,3.84,4.47,7.81,52.6
+Honduras,2012,Honduras 2012,4.13,3.75,3.58,53.4
+Honduras,2013,Honduras 2013,2.79,5.65,1.37,50
+Honduras,2014,Honduras 2014,3.06,7.08,6.85,49.9
+Honduras,2015,Honduras 2015,3.84,6.15,6.93,49.2
+Honduras,2016,Honduras 2016,3.89,6.73,3.68,49.8
+Honduras,2017,Honduras 2017,4.84,5.53,4.51,49.4
+Honduras,2018,Honduras 2018,3.84,5.62,1.95,48.9
+Honduras,2019,Honduras 2019,2.65,5.55,4.13,48.2
+Honduras,2020,Honduras 2020,-8.96,10.68,4.63,..
+Honduras,2021,Honduras 2021,12.53,..,3.80,..
+Mexico,2010,Mexico 2010,5.12,5.30,4.55,47.2
+Mexico,2011,Mexico 2011,3.66,5.17,5.84,..
+Mexico,2012,Mexico 2012,3.64,4.89,4.07,48.7
+Mexico,2013,Mexico 2013,1.35,4.91,1.53,..
+Mexico,2014,Mexico 2014,2.85,4.81,4.44,48.7
+Mexico,2015,Mexico 2015,3.29,4.31,2.84,..
+Mexico,2016,Mexico 2016,2.63,3.86,5.61,47.7
+Mexico,2017,Mexico 2017,2.11,3.42,6.71,..
+Mexico,2018,Mexico 2018,2.19,3.27,4.95,46.7
+Mexico,2019,Mexico 2019,-0.20,3.48,4.12,..
+Mexico,2020,Mexico 2020,-7.99,4.45,4.17,45.4
+Mexico,2021,Mexico 2021,4.72,4.09,5.16,..
+Nicaragua,2010,Nicaragua 2010,4.41,7.83,6.14,..
+Nicaragua,2011,Nicaragua 2011,6.32,..,10.21,..
+Nicaragua,2012,Nicaragua 2012,6.50,5.21,6.24,..
+Nicaragua,2013,Nicaragua 2013,4.93,5.28,4.35,..
+Nicaragua,2014,Nicaragua 2014,4.79,4.52,8.39,46.2
+Nicaragua,2015,Nicaragua 2015,4.79,4.70,7.59,..
+Nicaragua,2016,Nicaragua 2016,4.56,3.90,4.59,..
+Nicaragua,2017,Nicaragua 2017,4.63,3.30,4.12,..
+Nicaragua,2018,Nicaragua 2018,-3.36,5.20,2.66,..
+Nicaragua,2019,Nicaragua 2019,-3.78,..,5.50,..
+Nicaragua,2020,Nicaragua 2020,-1.79,..,5.49,..
+Nicaragua,2021,Nicaragua 2021,10.34,..,3.33,..
+Panama,2010,Panama 2010,5.83,5.83,2.59,51.6
+Panama,2011,Panama 2011,11.31,3.92,5.84,51.3
+Panama,2012,Panama 2012,9.78,3.71,6.18,51.7
+Panama,2013,Panama 2013,6.90,3.73,5.50,51.5
+Panama,2014,Panama 2014,5.07,4.44,4.20,50.5
+Panama,2015,Panama 2015,5.73,4.40,2.48,50.8
+Panama,2016,Panama 2016,4.95,4.84,2.00,50.4
+Panama,2017,Panama 2017,5.59,5.46,1.73,49.9
+Panama,2018,Panama 2018,3.69,5.31,0.67,49.2
+Panama,2019,Panama 2019,2.98,6.41,0.18,49.8
+Panama,2020,Panama 2020,-17.94,18.55,-1.80,..
+Panama,2021,Panama 2021,15.34,10.29,2.17,..
+Paraguay,2010,Paraguay 2010,11.10,4.57,4.66,51
+Paraguay,2011,Paraguay 2011,4.29,4.67,5.10,52.3
+Paraguay,2012,Paraguay 2012,-0.71,4.09,4.80,47.6
+Paraguay,2013,Paraguay 2013,8.29,4.38,4.34,47.9
+Paraguay,2014,Paraguay 2014,5.30,5.03,2.86,50.7
+Paraguay,2015,Paraguay 2015,2.96,4.56,1.60,47.6
+Paraguay,2016,Paraguay 2016,4.27,5.25,4.13,47.9
+Paraguay,2017,Paraguay 2017,4.81,4.61,2.16,48.5
+Paraguay,2018,Paraguay 2018,3.20,6.22,1.96,46
+Paraguay,2019,Paraguay 2019,-0.40,6.59,3.06,45.7
+Paraguay,2020,Paraguay 2020,-0.82,7.55,2.20,43.5
+Paraguay,2021,Paraguay 2021,4.10,7.31,7.12,..
+Peru,2010,Peru 2010,8.33,3.60,5.71,45.5
+Peru,2011,Peru 2011,6.33,3.48,6.75,44.7
+Peru,2012,Peru 2012,6.14,3.24,1.20,44.4
+Peru,2013,Peru 2013,5.85,3.57,1.06,43.9
+Peru,2014,Peru 2014,2.38,3.21,2.43,43.1
+Peru,2015,Peru 2015,3.25,3.27,2.69,43.4
+Peru,2016,Peru 2016,3.95,3.74,3.08,43.6
+Peru,2017,Peru 2017,2.52,3.69,3.62,43.3
+Peru,2018,Peru 2018,3.97,3.49,2.28,42.4
+Peru,2019,Peru 2019,2.24,3.38,1.87,41.6
+Peru,2020,Peru 2020,-10.95,7.18,3.89,43.8
+Peru,2021,Peru 2021,13.35,5.10,8.42,..
+Puerto Rico,2010,Puerto Rico 2010,-0.41,16.10,2.49,..
+Puerto Rico,2011,Puerto Rico 2011,-0.36,15.70,2.37,..
+Puerto Rico,2012,Puerto Rico 2012,0.03,14.50,1.18,..
+Puerto Rico,2013,Puerto Rico 2013,-0.31,14.30,1.18,..
+Puerto Rico,2014,Puerto Rico 2014,-1.19,13.90,1.20,..
+Puerto Rico,2015,Puerto Rico 2015,-1.05,12.00,1.98,..
+Puerto Rico,2016,Puerto Rico 2016,-1.26,11.80,2.22,..
+Puerto Rico,2017,Puerto Rico 2017,-2.89,10.80,2.09,..
+Puerto Rico,2018,Puerto Rico 2018,-4.36,9.20,2.05,..
+Puerto Rico,2019,Puerto Rico 2019,1.68,8.30,2.41,..
+Puerto Rico,2020,Puerto Rico 2020,-4.35,..,2.46,..
+Puerto Rico,2021,Puerto Rico 2021,0.21,7.90,3.19,..
+Uruguay,2010,Uruguay 2010,7.80,7.16,4.91,44.5
+Uruguay,2011,Uruguay 2011,5.16,6.31,9.01,42.2
+Uruguay,2012,Uruguay 2012,3.54,6.45,8.56,39.9
+Uruguay,2013,Uruguay 2013,4.64,6.44,8.15,40.5
+Uruguay,2014,Uruguay 2014,3.24,6.55,9.37,40.1
+Uruguay,2015,Uruguay 2015,0.37,7.49,9.02,40.1
+Uruguay,2016,Uruguay 2016,1.69,7.84,16.61,39.7
+Uruguay,2017,Uruguay 2017,1.63,7.89,4.99,39.5
+Uruguay,2018,Uruguay 2018,0.48,8.34,7.10,39.7
+Uruguay,2019,Uruguay 2019,0.35,8.73,8.52,39.7
+Uruguay,2020,Uruguay 2020,-6.12,10.33,11.04,40.2
+Uruguay,2021,Uruguay 2021,4.37,9.29,10.01,..
+"Venezuela, RB",2010,"Venezuela, RB 2010",-1.49,7.11,45.94,..
+"Venezuela, RB",2011,"Venezuela, RB 2011",4.18,6.90,28.15,..
+"Venezuela, RB",2012,"Venezuela, RB 2012",5.63,6.60,14.06,..
+"Venezuela, RB",2013,"Venezuela, RB 2013",1.34,7.54,35.50,..
+"Venezuela, RB",2014,"Venezuela, RB 2014",-3.89,..,40.44,..
+"Venezuela, RB",2015,"Venezuela, RB 2015",..,..,..,..
+"Venezuela, RB",2016,"Venezuela, RB 2016",..,5.32,..,..
+"Venezuela, RB",2017,"Venezuela, RB 2017",..,5.05,..,..
+"Venezuela, RB",2018,"Venezuela, RB 2018",..,..,..,..
+"Venezuela, RB",2019,"Venezuela, RB 2019",..,..,..,..
+"Venezuela, RB",2020,"Venezuela, RB 2020",..,7.53,..,..
+"Venezuela, RB",2021,"Venezuela, RB 2021",..,..,..,..
